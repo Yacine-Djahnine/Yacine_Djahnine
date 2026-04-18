@@ -1,5 +1,5 @@
 <h1 align="center">⚡ Yacine Djahnine</h1>
-<h3 align="center">Electrical & Power Engineering | Embedded Systems | Future Automotive Engineer</h3>
+<h3 align="center">Electrical & Power Engineering | Embedded Systems </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20Engineering-Master's-blue?style=for-the-badge" />
