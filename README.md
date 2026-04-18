@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20Engineering-Master's-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Automotive%20%26%20Energy-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Power%20%26%20Electronics-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-Algeria-red?style=for-the-badge" />
 </p>
 
@@ -15,9 +15,9 @@ I’m **Yacine Djahnine**, an Electrical Engineering graduate and Master’s stu
 
 🔹 Passionate about **smart grids, electric vehicles, and control systems**  
 🔹 Strong balance between **theory and hands-on engineering**  
-🔹 Building real-world projects in **embedded systems & PCB design**
+🔹 Building real-world projects in **embedded systems , PCB design & Advanced Power Electronics Implementation**
 
-🎯 **Goal:** Build a career in **Germany’s automotive and energy industry**
+
 
 ---
 
@@ -73,20 +73,10 @@ I’m **Yacine Djahnine**, an Electrical Engineering graduate and Master’s stu
 
 ---
 
-### 🤖 Autonomous Driving System *(Planned)*
 
-- Multi-sensor fusion  
-- MATLAB / Simulink simulation  
-- AI-based decision system  
-- Focus on **efficiency & harsh environments**
 
 ---
 
-### 🌐 IoT Systems
-
-- Smart monitoring systems  
-- Embedded + communication integration  
-- Real-time data processing  
 
 ---
 
@@ -116,23 +106,18 @@ I’m **Yacine Djahnine**, an Electrical Engineering graduate and Master’s stu
 
 ---
 
-## 🎯 Career Goals
 
-- 🇩🇪 Move to Germany for career growth  
-- 🚗 Work in **automotive engineering (EV, control systems)**  
-- ⚡ Specialize in:
-  - Power Electronics  
-  - Electric Vehicles  
-  - Intelligent Control Systems  
+
 
 ---
 
-## 📌 Current Focus
+##  Current Focus
 
-- 🇩🇪 Learning German (Target: B2)  
-- 🧠 AI & Machine Learning  
-- ⚡ Advanced Power Systems  
-- 🚀 Building strong engineering projects  
+ 
+-  AI & Machine Learning  
+-  Advanced Power Systems  
+-  Implementation of Power Electronics
+-  Research in Advanced Energy systems   
 
 ---
 
