@@ -54,9 +54,9 @@ I’m **Yacine Djahnine**, an Electrical Engineering graduate and Master’s stu
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-### 🖨️ CNC Machine for PCB Engraving
+###  CNC Machine for PCB Engraving
 > Bachelor Thesis
 
 - Designed & built a **complete CNC system**
@@ -65,7 +65,7 @@ I’m **Yacine Djahnine**, an Electrical Engineering graduate and Master’s stu
 
 ---
 
-### ⚡ Sensorless BLDC Motor Controller (ESP32)
+###  Sensorless BLDC Motor Controller (ESP32)
 
 - Sensorless control using **Back-EMF**
 - Implemented **6-step commutation & PWM**
@@ -80,16 +80,16 @@ I’m **Yacine Djahnine**, an Electrical Engineering graduate and Master’s stu
 
 ---
 
-## 🧑‍💼 Experience
+##  Experience
 
-### 🔬 Project Manager – WAMEEDH Scientific Club
+###  Project Manager – WAMEEDH Scientific Club
 - Led engineering teams  
 - Organized workshops (PCB, embedded systems)  
 - Mentored beginners  
 
 ---
 
-### 💻 PCB Design Intern
+###  PCB Design Intern
 - Designed real-world PCBs using KiCad  
 - Testing & debugging circuits  
 - Industry workflow experience  
