@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Yacine Djahnine</h1>
+<h1 align="center"> Yacine Djahnine</h1>
 <h3 align="center">Electrical & Power Engineering | Embedded Systems </h3>
 
 <p align="center">
